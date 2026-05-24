@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #fff;
+
+  /* 🔥 BACKGROUND IMAGE + DARK OVERLAY */
+  background:
+    linear-gradient(rgba(10, 15, 25, 0.85), rgba(10, 15, 25, 0.95)),
+    url("https://img.magnific.com/free-vector/modern-business-background-with-digital-technology-design_1361-3299.jpg?semt=ais_hybrid&w=740&q=80");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+input, textarea {
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+  width: 250px;
+}
+
+button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  background: #4cafef;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #3a9edc;
+}
+
+a {
+  text-decoration: none;
+}
