@@ -1,0 +1,14 @@
+# Backend
+backend/node_modules/
+backend/.env
+
+# Frontend
+gaming-frontend/node_modules/
+gaming-frontend/build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
