@@ -6,18 +6,30 @@ This gaming Website is a full-stack web application that simulates a digital gam
 Technologies Used
 "Frontend" React.js, React Router, Axios, JavaScript, CSS, Backend, Node.js, Express.js, "Database" MySQL, "Other Tools" Git, GitHub, MySQL Workbench, VS Code
 
-Features
+Features 
+
 User Registration and Login
+
 JWT Authentication
+
 Browse Game Catalog
+
 Search and Filter Games
+
 Wishlist Management
+
 Shopping Cart
+
 Purchase System
+
 Game Library
+
 User Profiles
+
 Reviews and Ratings
+
 Notifications
+
 Order History
 
 Database Design
