@@ -6,26 +6,26 @@ This gaming Website is a full-stack web application that simulates a digital gam
 The project was developed using React for the frontend, Node.js and Express for the backend, and MySQL as the database management system. The application demonstrates full-stack web development concepts including authentication, REST APIs, database design, CRUD operations, shopping cart functionality, order processing, and user account management.
 
 Technologies Used
-*Frontend*
+**Frontend**
 React.js,
 React Router DOM,
 Axios,
 JavaScript (ES6+),
 HTML5,
 CSS3,
-Backend,
+**Backend**
 Node.js,
 Express.js,
-*Database*
+**Database**
 MySQL,
-MySQL Workbench,
-*Development Tools*
+MySQL Workbench
+**Development Tools**
 Visual Studio Code,
 Git,
 GitHub,
 Postman
 
-*Features*
+**Features**
 User Management,
 User Registration,
 User Login,
@@ -53,19 +53,19 @@ View Purchased Games,
 Access Owned Titles,
 Track Recently Played Games,
 
-*Community Features*
+**Community Features**
 Leave Reviews,
 View User Reviews,
-Notifications System,
+Notifications System
 
-*Database Features*
+**Database Features**
 Relational Database Design,
 Many-to-Many Relationships,
 Foreign Key Constraints,
 Order Management,
 User Game Ownership Tracking
 
-Database Structure
+**Database Structure**
 
 The system uses a relational MySQL database consisting of the following tables:
 
